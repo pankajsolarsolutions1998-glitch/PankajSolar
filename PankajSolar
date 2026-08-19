@@ -1,0 +1,141 @@
+<!-- Projects Section -->
+<section id="projects" class="projects-section">
+  <div class="container">
+    <h2 class="section-title">Our Solar Projects & Site Execution</h2>
+    <div class="projects-grid">
+
+      <!-- Project 1: Pimorah, UP -->
+      <div class="project-card">
+        <div class="project-img-wrapper">
+          <img src="pimorah-up.jpg" alt="Pimorah Solar Site, Uttar Pradesh" class="project-img">
+        </div>
+        <div class="project-info">
+          <h3>Pimorah Solar Project</h3>
+          <p class="location">📍 Pimorah, Uttar Pradesh (251314)</p>
+          <p class="desc">Ground piling and foundational column alignment across the array yard.</p>
+        </div>
+      </div>
+
+      <!-- Project 2: Yenaki, Maharashtra -->
+      <div class="project-card">
+        <div class="project-img-wrapper">
+          <img src="yenaki-maharashtra.jpg" alt="Yenaki Solar Plant, Maharashtra" class="project-img">
+        </div>
+        <div class="project-info">
+          <h3>Yenaki Solar Plant</h3>
+          <p class="location">📍 Yenaki, Maharashtra (413253)</p>
+          <p class="desc">Large-scale ramming and column installation across solar acreage.</p>
+        </div>
+      </div>
+
+      <!-- Project 3: Ghatyan South, UP -->
+      <div class="project-card">
+        <div class="project-img-wrapper">
+          <img src="ghatyan-south-up.jpg" alt="Ghatyan South Solar Structure, UP" class="project-img">
+        </div>
+        <div class="project-info">
+          <h3>Ghatyan South Project</h3>
+          <p class="location">📍 Ghatyan South, Uttar Pradesh (251314)</p>
+          <p class="desc">Mounting structure assembly and purlin line leveling.</p>
+        </div>
+      </div>
+
+      <!-- Project 4: Kari, UP (Array Framing) -->
+      <div class="project-card">
+        <div class="project-img-wrapper">
+          <img src="kari-up.jpg" alt="Kari Solar Array, Uttar Pradesh" class="project-img">
+        </div>
+        <div class="project-info">
+          <h3>Kari Solar Site</h3>
+          <p class="location">📍 Kari, Uttar Pradesh (251316)</p>
+          <p class="desc">Module mounting structure framing and preliminary panel laying.</p>
+        </div>
+      </div>
+
+      <!-- Project 5: Kamhera / Dhansri 4.1 MW -->
+      <div class="project-card">
+        <div class="project-img-wrapper">
+          <img src="dhansri-kamhera-up.jpg" alt="Kamhera 4.1 MW Solar Project, Dhansri, UP" class="project-img">
+        </div>
+        <div class="project-info">
+          <h3>Kamhera 4.1 MW Solar Plant</h3>
+          <p class="location">📍 Dhansri, Uttar Pradesh (251314)</p>
+          <p class="desc">Concrete transit-mixer pouring and base structural stabilization.</p>
+        </div>
+      </div>
+
+      <!-- Project 6: Shetphal, Maharashtra -->
+      <div class="project-card">
+        <div class="project-img-wrapper">
+          <img src="shetphal-maharashtra.jpg" alt="Shetphal Solar Ground Installation, Maharashtra" class="project-img">
+        </div>
+        <div class="project-info">
+          <h3>Shetphal Solar Project</h3>
+          <p class="location">📍 Shetphal, Maharashtra (413202)</p>
+          <p class="desc">Hydraulic machine pile driving and on-site engineering operations.</p>
+        </div>
+      </div>
+
+      <!-- Project 7: Paritewadi, Maharashtra -->
+      <div class="project-card">
+        <div class="project-img-wrapper">
+          <img src="paritewadi-maharashtra.jpg" alt="Paritewadi Solar Installation, Maharashtra" class="project-img">
+        </div>
+        <div class="project-info">
+          <h3>Paritewadi Solar Site</h3>
+          <p class="location">📍 Paritewadi, Maharashtra (413211)</p>
+          <p class="desc">Fixed-tilt solar table installation with site supervisors.</p>
+        </div>
+      </div>
+
+      <!-- Project 8: Nangla Mubarik Site Review -->
+      <div class="project-card">
+        <div class="project-img-wrapper">
+          <img src="nangla-mubarik-up.jpg" alt="Nangla Mubarik Project Planning, UP" class="project-img">
+        </div>
+        <div class="project-info">
+          <h3>Nangla Mubarik Project</h3>
+          <p class="location">📍 Nangla Mubarik, Uttar Pradesh (251314)</p>
+          <p class="desc">On-site technical drawing briefing and layout execution review.</p>
+        </div>
+      </div>
+
+      <!-- Project 9: Dhansri Boundary Fencing -->
+      <div class="project-card">
+        <div class="project-img-wrapper">
+          <img src="dhansri-fencing-up.jpg" alt="Dhansri Perimeter Fencing Work, UP" class="project-img">
+        </div>
+        <div class="project-info">
+          <h3>Dhansri Plant Security & Fencing</h3>
+          <p class="location">📍 Dhansri, Uttar Pradesh (251314)</p>
+          <p class="desc">Perimeter chain-link fencing and boundary security infrastructure.</p>
+        </div>
+      </div>
+
+      <!-- Project 10: Bhusawal Engineering Office -->
+      <div class="project-card">
+        <div class="project-img-wrapper">
+          <img src="bhusawal-office.jpg" alt="Bhusawal Planning Office, Maharashtra" class="project-img">
+        </div>
+        <div class="project-info">
+          <h3>Engineering & Operations Hub</h3>
+          <p class="location">📍 Bhusawal, Maharashtra (425201)</p>
+          <p class="desc">Project coordination, system design, and scheduling center.</p>
+        </div>
+      </div>
+
+      <!-- Project 11: High-Voltage Transformer / Substation -->
+      <div class="project-card">
+        <div class="project-img-wrapper">
+          <img src="transformer-substation.jpg" alt="Substation Power Transformer Unit" class="project-img">
+        </div>
+        <div class="project-info">
+          <h3>Substation Transformer Unit</h3>
+          <p class="location">📍 Grid Interconnection Yard</p>
+          <p class="desc">Step-up power transformer with OLTC and control panel setup.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
